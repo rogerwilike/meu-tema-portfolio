@@ -112,6 +112,12 @@ a {
   padding-inline: var(--space-sm);
 }
 
+.certificate-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-lg);
+}
+
 .section {
   padding-block: var(--space-xl);
 }
