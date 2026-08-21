@@ -30,7 +30,6 @@
   <!-- Header / Navigation -->
   <header class="header">
     <div class="container nav-container">
-      <a href="<?php echo esc_url(home_url('/')); ?>" class="logo"><?php bloginfo('name'); ?></a>
       <nav aria-label="Primary navigation">
         <ul class="nav-list">
           <li><a href="#section1">Home</a></li>
@@ -49,7 +48,7 @@
       <div class="container">
         <h1><?php bloginfo('name'); ?></h1> <br>
         <p><?php bloginfo('description'); ?></p>
-        <div class="certificate-grid">
+        <div class="certificate-box">
             <article class="certificate-card">
                 <h3>Responsive Web Design</h3>
                 <a href="https://www.freecodecamp.org/certification/wilike/responsive-web-design-v9" target="_blank">
@@ -62,32 +61,36 @@
                 <img src="http://portfolio-dev.local/wp-content/uploads/2026/08/english.png" alt="b1 english for developers certificate" style="width: 420px;height: 256px;">
                 </a>
               </article>
-            <article class="certificate-card">
-                <h3>JavaScript Algorithms</h3>
-            </article>
         </div>
-       <!-- <a href="#section2" class="btn btn-primary">Primary Action</a> -->
       </div>
     </section>
 
     <!-- Generic Content Section -->
 
-        <section id="section1" class="section">
+        <section id="section1" class="section1">
       <div class="container">
-        <h2>About Me</h2> <br>
+        <h2>About Me</h2>
         <p>Hello, my name is Roger Wilike and I am a student of Information Systems, transitioning into the field of web development with a passion of contributing to meaningful projects while continuously learning.</p>
       </div>
     </section>
 
-    <section id="section2" class="section">
+    <section id="section2" class="section2">
       <div class="container">
       </div>
     </section>
 
-    <section id="section3" class="section">
+    <section id="section3" class="section3">
       <div class="container">
-      <h2>Contact Me</h2> <br>
-        <p>LinkedIn: <a href="https://www.linkedin.com/in/roger-wilike/" target="_blank" rel="noopener noreferrer">Roger Wilike</a></p>
+      <h2>Contact Me</h2> 
+                <a href="https://www.linkedin.com/in/roger-wilike-069a9513b/" target="_blank">
+                <img src="http://portfolio-dev.local/wp-content/uploads/2026/08/icons8-linkedin-48.png" alt="LinkedIn profile" style="width: 48px;height: 48px;">
+                </a>
+                <a href="https://github.com/rogerwilike" target="_blank">
+                <img src="http://portfolio-dev.local/wp-content/uploads/2026/08/icons8-github-logo-50.png" alt="GitHub profile" style="width: 48px;height: 48px;">
+                </a>
+                <a href="mailto:rogerwilik@gmail.com" target="_blank">
+                  <img src="http://portfolio-dev.local/wp-content/uploads/2026/08/icons8-gmail-logo-48.png" alt="Send Email" style="width: 48px;height: 48px;">
+                </a>
       </div>
     </section>
 
