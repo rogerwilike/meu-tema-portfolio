@@ -53,13 +53,13 @@
             <article class="certificate-card">
                 <h3>Responsive Web Design</h3>
                 <a href="https://www.freecodecamp.org/certification/wilike/responsive-web-design-v9" target="_blank">
-                <img src="http://portfolio-dev.local/wp-content/uploads/2026/08/responsive.png" alt="responsive web design certificate" style="width:420px;height: 420px;px;">
+                <img src="http://portfolio-dev.local/wp-content/uploads/2026/08/responsive.png" alt="responsive web design certificate" style="width: 420px;height: 256px;">
                 </a>
               </article>
             <article class="certificate-card">
                 <h3>B1 English for Developers</h3>
                 <a href="https://www.freecodecamp.org/certification/wilike/b1-english-for-developers" target="_blank">
-                <img src="http://portfolio-dev.local/wp-content/uploads/2026/08/english.png" alt="b1 english for developers certificate" style="width:420px;height:420px;">
+                <img src="http://portfolio-dev.local/wp-content/uploads/2026/08/english.png" alt="b1 english for developers certificate" style="width: 420px;height: 256px;">
                 </a>
               </article>
             <article class="certificate-card">
