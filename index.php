@@ -76,6 +76,8 @@
 
     <section id="section2" class="section2">
       <div class="container">
+        <h2>Projects</h2>
+        <p>Here are some of the projects I can offer:</p>
       </div>
     </section>
 
