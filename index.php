@@ -46,8 +46,7 @@
     <!-- Hero / Introduction -->
     <section class="hero section">
       <div class="container">
-        <h1><?php bloginfo('name'); ?></h1> <br>
-        <p><?php bloginfo('description'); ?></p>
+        <h1><?php bloginfo('name'); ?></h1> 
         <div class="certificate-box">
             <article class="certificate-card">
                 <h3>Responsive Web Design</h3>
@@ -71,6 +70,9 @@
       <div class="container">
         <h2>About Me</h2>
         <p>Hello, my name is Roger Wilike and I am a student of Information Systems, transitioning into the field of web development with a passion of contributing to meaningful projects while continuously learning.</p>
+        <aside>
+          <img src="http://portfolio-dev.local/wp-content/uploads/2026/08/IMG-20210703-WA0003.jpg" alt="Roger Wilike">
+        </aside>
       </div>
     </section>
 
