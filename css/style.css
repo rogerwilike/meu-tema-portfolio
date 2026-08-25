@@ -110,8 +110,7 @@ h2, h3, p {
 
 @font-face {
   font-family: 'CustomFont';
-  src: url("fonts/LibertinusKeyboard-Regular.ttf") format('woff2'),
-       url("fonts/LibertinusKeyboard-Regular.ttf") format('truetype');
+  src: url("../fonts/LibertinusKeyboard-Regular.ttf") format('truetype');
   font-weight: normal;
   font-style: normal;
 }
